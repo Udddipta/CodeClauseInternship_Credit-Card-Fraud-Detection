@@ -1,4 +1,7 @@
 # CodeClauseInternship_Credit-Card-Fraud-Detection
+
+Link to the dataset : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 This work is all about to detect fraudulent credit card transactions using advanced machine learning techniques.
 
 In the dynamic landscape of financial transactions, the prevalence of credit card fraud poses a significant threat to both consumers and financial institutions. Addressing this challenge requires advanced analytics and machine learning techniques, with logistic regression emerging as a powerful tool for Credit Card Fraud Detection (CCFD) on imbalanced datasets.
